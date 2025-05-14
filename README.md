@@ -1,4 +1,3 @@
-![439928347-a1da5be5-38ad-43ea-bee6-5652af95faa5](https://github.com/user-attachments/assets/d15cdb3e-8d56-4bdf-8738-0c4f01560d35)# EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-
 ## Aim: To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
